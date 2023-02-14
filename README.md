@@ -1,7 +1,5 @@
 # Global-Supertore-Analytics-And-Dashboard
 
-#Overview
-
 The CFO of Global Superstore needs to have a good view of the global operations of the company, including sales, profit, and losses. Budgeting, investments, and targeted intervention of problem areas will depend on the CFO's ability to develop an understanding of which part/region performs well or otherwise. In order to support this, you have been tasked to conduct analyses on Global Superstore's transactions data and provide the CFO with two self-service dashboards.
 
 **Task 1: Create**  a dynamic and interactive dashboard for the CFO of Global Superstore, including:
